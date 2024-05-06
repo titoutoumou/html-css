@@ -1,0 +1,39 @@
+.background {
+  background-color: rgb(0, 0, 0);
+  border:10px double blue
+  padding: 10px;
+ } /* style paragraphe */
+
+p {
+  font-family: Arial, sans-serif;
+  color: aliceblue;
+}
+
+.h1{color:rgb(14, 184, 127)}
+
+/*style sous titres*/
+
+h2 {
+  font-family:Arial, sans-serif;
+  color:rgb(42, 209, 142)
+}
+
+img {
+  border-radius: 900px;
+  float:right;
+}
+
+.purple { 
+  color:purple 
+}
+
+style
+  .titre-color {
+      color: whitesmoke;
+  }
+style
+
+<h1 class="titre-color">Titre en couleur</h1>
+
+
+
